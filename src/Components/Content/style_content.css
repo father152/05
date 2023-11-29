@@ -1,0 +1,20 @@
+.content {
+    display: flex;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    margin-top: 40px;
+}
+
+.left_side {
+width: 20vw;
+border: 1px solid black;
+}
+.central_side {
+width: 60vw;
+border: 1px solid black;
+}
+.right_side {
+width: 20vw;
+border: 1px solid black;
+}

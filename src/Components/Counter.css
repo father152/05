@@ -1,0 +1,28 @@
+.counter {
+display: flex;
+text-align: center;
+}
+.counter p {
+    font-size: 30px;
+    text-align: center;
+    padding: 40px 0;
+}
+button {
+    background-color: rgb(201, 201, 230);
+    width: 150px;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 20px;
+  margin: 0 20px 40px 0;
+  border-radius: 20px;
+
+}
+
+
+.image img {
+    display: flex;
+    width: 100%;
+  margin: 0 auto; 
+ position: relative;
+  
+}

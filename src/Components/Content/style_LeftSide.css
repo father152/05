@@ -1,0 +1,26 @@
+.left_side {
+  display: flex;
+  background-color: rgb(229, 231, 230);
+}
+.title {
+  padding-top: 20px;
+}
+.title a {
+  display: flex;
+  font-size: 20px;
+  color: rgb(63, 63, 63);
+  font-family: sans-serif;
+  text-decoration: none;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+.title a:hover {
+  text-decoration: underline;
+}
+.title a img {
+  width: 15px;
+  height: 15px;
+  margin: 4px 30px 5px 5px;
+  display: block;
+ 
+}
